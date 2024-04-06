@@ -2,4 +2,8 @@
 This is test project, for readme
 
 * this is a bullet point:
-  ![](Img0.png)
+
+[News](https://www.straitstimes.com)
+
+![](Img0.png)
+
