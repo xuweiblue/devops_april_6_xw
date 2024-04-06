@@ -1,2 +1,2 @@
 # devops_april_6_xw
-This is test project
+This is test project, for readme
